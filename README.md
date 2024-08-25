@@ -1,2 +1,3 @@
-# Analytics_data
-Data Analysis using jupyter .
+# Data Science
+
+Data Analysis using jupyter notebook and python language.
